@@ -1,8 +1,8 @@
 # DDLR-Compression
 
-##Code for paper:
+## Code for paper:
 
-##"Data-Driven Low-Rank Neural Network Compression" 
+## "Data-Driven Low-Rank Neural Network Compression" 
 
 ## <https://arxiv.org/abs/2107.05787>
 
